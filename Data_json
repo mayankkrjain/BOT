@@ -1,0 +1,11 @@
+{
+	"logical": {
+		"mess": {
+				"command": "python mess.py", 
+				"meta": "food", 
+				"tagset": "mess,nbh,obh",
+				"arguements":"1"
+					
+		}
+	}
+}

@@ -1,0 +1,5 @@
+Sample Inputs:
+When is Felicity?
+Who made you?
+What are you?
+Are you crazy?

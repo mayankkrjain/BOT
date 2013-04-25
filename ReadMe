@@ -1,0 +1,15 @@
+This program was made for Felicity , IIIT-H's annual cultural and technical fest.
+It is currently deployed at http://felicity.iiit.ac.in/13/main/.
+To have an idea of the working proceed as follows:
+
+Dependencies :
+	1. NLTK (Numpy,Scipy,Nltk-Data)
+	2. FuzzyWuzzy String Search module
+
+For running :
+	python main_prog.py
+
+
+
+
+

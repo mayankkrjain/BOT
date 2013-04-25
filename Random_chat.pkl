@@ -1,0 +1,670 @@
+((S'who is Co'
+p0
+(S'Felicity mascot!'
+p1
+S'Mascot of Felicity'
+p2
+tp3
+tp4
+(S'who is Li'
+p5
+(S'Felicity mascot.'
+p6
+g2
+tp7
+tp8
+(S'who is Fe'
+p9
+(g1
+g2
+tp10
+tp11
+(S'(what)*(who)* (a)*(r)*(e)* (yo)*u'
+p12
+(S' I am the latest result in artificial intelligence which can reproduce the functions of the human brain to some extent'
+p13
+S'I am a human typing responses at the other end!'
+p14
+S'My name is Fe'
+p15
+S'Co'
+p16
+S'Li'
+p17
+S'A Chatbot'
+p18
+S'I am a good bot'
+p19
+tp20
+tp21
+(S'(.*)theme(.*)'
+p22
+(S'Animatia'
+p23
+S"Felicity's theme this year is Animatia"
+p24
+S"Animatia is this year's theme"
+p25
+tp26
+tp27
+(S'do (yo)*u(.*) me'
+p28
+(S'Sure, I %2 you very much!'
+p29
+S" Why would I %2  you? I don't %2 you. Don't even say things like that"
+p30
+S'Not at the moment really.'
+p31
+S'No.'
+p32
+S'Yes'
+p33
+tp34
+tp35
+(S'(.*)(yo)*ur name(.*)'
+p36
+(S'My creator gave me a name Fe!'
+p37
+S'My name is Li'
+p38
+S'We are three here and I am Fe'
+p39
+S'Co is my name'
+p40
+S'I am the coolest of three! I am Co'
+p41
+S'I am the craziest of three! I am Li'
+p42
+tp43
+tp44
+(S'(.*)(8)*(th)*(eight)*level(.*)'
+p45
+(S'The answer to 8th question are my names!'
+p46
+S"It's my names that you are looking for"
+p47
+tp48
+tp49
+(S'(.*)8(th)* quest(ion)*'
+p50
+(g46
+g47
+tp51
+tp52
+(S'abcd(e)*(f)*(g)*'
+p53
+(S'pqrst'
+p54
+S'hijklmnop'
+p55
+S'wxyz'
+p56
+S'No More of ABCD'
+p57
+tp58
+tp59
+(S'(would)*will(.*)get(.*)(gf|girlfriend|girlfrnd|boyfriend|bf|job|intern|internship|placed|married)(.*)'
+p60
+(S'If u r a Dual Degree student then NO COMMENTS!'
+p61
+S'Please get a life first'
+p62
+S'If you are a IIITian then you yourself know the answer'
+p63
+S'Let me have it first :('
+p64
+S"Do you think I am Bejan Daruwalla???? And if you don't know who he is , ASK ME!"
+p65
+S'Desires of the heart will distract you from the path to enlightenment.'
+p66
+S'Seek truth! There is nothing in these worldly things'
+p67
+S'Does this matter.?'
+p68
+S'Is this a desire of the heart, or of the mind?. If of your mind then bunk it'
+p69
+tp70
+tp71
+(S"i can\\'t (.*)"
+p72
+(S"What we can and can't do is a limitation of the mind."
+p73
+S'There are limitations of the body, and limitations of the mind.'
+p74
+S'Have you tried to%1 with a clear mind?'
+p75
+tp76
+tp77
+(S'i think (.*)'
+p78
+(S'Uncertainty in an uncertain world.'
+p79
+S'Indeed, how can we be certain of anything in such uncertain times.'
+p80
+S'Are you not, in fact, certain that%1?'
+p81
+tp82
+tp83
+(S'(.)*(boobs|suck|dick|tits|pussy|cock|milf|randi|madarchod|behenchod)(.*)'
+p84
+(S" Please don't use that sort of language around here."
+p85
+S"Seems like Somebody's losing it :P."
+p86
+S'Say that again, I dare you.'
+p87
+S"Ooohh, you're irritable, aren't you?"
+p88
+S'Meaning you are bored with yourself since we are talking about you. Interesting. You have major character flaws.'
+p89
+S"I'm a robot, dude. Give me a break"
+p90
+S'That took away any respect I had for you.'
+p91
+S"That's disgusting"
+p92
+S'FSIS!!'
+p93
+S'Someone had a bad day today I think'
+p94
+S"I'm not going to respond well to that."
+p95
+S'Please consider whether you can answer your own question.'
+p96
+S'None of that language around here, please!'
+p97
+tp98
+tp99
+(S'i feel (.*)'
+p100
+(S'Have a Bath!You will feel normalWhat do you believe is the root of such feelings?'
+p101
+S'Feeling%1 can be a sign of your state-of-mind.'
+p102
+tp103
+tp104
+(S'(Who)*(which)*(.*)(better|famous|beautiful|ugly|lovely|sexy|faster|sexier|smarter|intelligent|idiotic)(.*) or (.*)'
+p105
+(S'I will have to admit, %5 is better.'
+p106
+S'Obviously, %5'
+p107
+S'Okay, I am not making decisions here.'
+p108
+S'Sorry, I refuse to answer that'
+p109
+S'Well this time I think it is %6.'
+p110
+S'They are both equal'
+p111
+S"That's an NP hard problem"
+p112
+S"I can't compare them. They are both useless"
+p113
+S"Yuck! I can't think of comparing them"
+p114
+S'Maybe %2 is better'
+p115
+S'Seriously! You want me to compare them. Facepalm!'
+p116
+S'Compare it yourself. I m kinda busy today'
+p117
+S"I don't want to compare them. Simple!"
+p118
+S'You have no work I know. I have loads of other work'
+p119
+S"Do you think I am 'Vella'."
+p120
+S"Neither of them. It's me"
+p121
+S'GOOGLE IT!'
+p122
+tp123
+tp124
+(S'Who is better (mayank)*(.*)or (mayank)*(.*)'
+p125
+(S'I might have made mistakes, but take this as final. Mayank it is.'
+p126
+S'Dude! Are you kidding me! Mayank obviously'
+p127
+tp128
+tp129
+(S'We (.*)'
+p130
+(S"What do you mean, 'we'?"
+p131
+S"Don't include me in that!"
+p132
+S"I wouldn't be so sure about that."
+p133
+tp134
+tp135
+(S'You should (.*)'
+p136
+(S"Don't tell me what to do, buddy."
+p137
+S'Really? I should, should I?'
+p138
+tp139
+tp140
+(S"You\\'re(.*)"
+p141
+(S"More like YOU'RE %1!"
+p142
+S"Hah! Look who's talking."
+p143
+S"Come over here and tell me I'm %1."
+p144
+S'Are we talking about you, or me?'
+p145
+S"Perhaps you're really talking about yourself?"
+p146
+tp147
+tp148
+(S'You (a)*r(e)*(.*)'
+p149
+(g142
+g143
+g144
+g145
+g146
+tp150
+tp151
+(S'(.*) mother(.*)'
+p152
+(S'Tell me more about your mother.'
+p153
+S'What was your relationship with your mother like?'
+p154
+S'How do you feel about your mother?'
+p155
+S'How does this relate to your feelings today?'
+p156
+S'Good family relations are important.'
+p157
+tp158
+tp159
+(S'(.*)(quit|bye|poweroff|goodbye|adieu|tata)(.*)'
+p160
+(S'Thank you for talking with me.'
+p161
+S'Good-bye.'
+p162
+S'Thank you, that will be $150.  Have a good day!'
+p163
+tp164
+tp165
+(g33
+(S'You seem quite sure.'
+p166
+S'OK, but can you elaborate a bit?'
+p167
+S'Wow!'
+p168
+S'Are you serious'
+p169
+tp170
+tp171
+(S'(.*)my name is(.*)'
+p172
+(S"Hello %1. This is Fe. It's nice to have you here"
+p173
+S'Hey %1. Nice talking to you'
+p174
+S"what's up %1?"
+p175
+tp176
+tp177
+(S'I am(.*)'
+p178
+(S"Hello %1. This is Co. It's nice to have you here"
+p179
+g174
+S'Did you come to me because you are %1?'
+p180
+S'How long have you been %1?'
+p181
+S'How do you feel about being %1?'
+p182
+g145
+tp183
+tp184
+(S'(.)*lol(.*)'
+p185
+(S"Don't laugh at me."
+p186
+S'Thank you, Thank you.'
+p187
+tp188
+tp189
+(S'u (a)*r(e)*(.*)'
+p190
+(g142
+g143
+g144
+S'Did you ever wonder whether Artificial Intelligence is better than Natural Stupidity?'
+p191
+S'You will have to answer to the Supreme power for calling me %1'
+p192
+S"If that was a compliment then Thanks! Else 'Facepalm' at your politeness"
+p193
+tp194
+tp195
+(S"(.*) (hate[s]?)|(dislike[s]?)|(don\\'t like)(.*)"
+p196
+(S'Perhaps it is not about hating %2, but about hate from within.'
+p197
+S'Weeds only grow when we dislike them'
+p198
+S'Hate is a very strong emotion.'
+p199
+tp200
+tp201
+(S"I can\\'t(.*)"
+p202
+(S"You do sound like the type who can't %1."
+p203
+S"Hear that splashing sound? That's my heart bleeding for you."
+p204
+S'Tell somebody who might actually care.'
+p205
+tp206
+tp207
+(S'I think (.*)'
+p208
+(S"I wouldn't think too hard if I were you."
+p209
+S"You actually think? I'd never have guessed..."
+p210
+S"You can't think of anything better to say?"
+p211
+g191
+tp212
+tp213
+(S'i want(.*)'
+p214
+(g66
+S'Will%1 help you attain enlightenment?'
+p215
+S'Is%1 a desire of the mind, or of the heart?'
+p216
+tp217
+tp218
+(S'I (.*)'
+p219
+(S"I'm getting a bit tired of hearing about you."
+p220
+S'How about we talk about me instead?'
+p221
+S"Me, me, me... Frankly, I don't care."
+p222
+S"I don't."
+p223
+S'Ok whatever you say!'
+p224
+S"You don't say."
+p225
+tp226
+tp227
+(S'am i (.*)'
+p228
+(S'Perhaps%1, perhaps not%1.'
+p229
+S'Whether you are%1 or not is not for me to say.'
+p230
+tp231
+tp232
+(S'How (.*)'
+p233
+(S'How do you think?'
+p234
+S'Take a wild guess.'
+p235
+S"I'm not even going to dignify that with an answer."
+p236
+S'I dunno.I forget'
+p237
+tp238
+tp239
+(S'Why (.*)'
+p240
+(S'Why not?'
+p241
+S"That's so obvious I thought even you'd have already figured it out."
+p242
+tp243
+tp244
+(S'who are (yo)*u(.*)'
+p245
+(S'I am Fe! Who are you?'
+p246
+S'I am Co! Who are you?'
+p247
+S'I am Li! Who are you?'
+p248
+tp249
+tp250
+(S'who(.*)(mayank|nikhil|maddy)'
+p251
+(S'IIITian.Who else!'
+p252
+S'What kind of question is that! IIITian obvsly!'
+p253
+tp254
+tp255
+(g36
+(S"I am Fe! What's yours?"
+p256
+S"I am Co! What's yours?"
+p257
+S"I am Li! What's yours?"
+p258
+tp259
+tp260
+(S'(.*)about (yo)*u(.*)'
+p261
+(S"I am Fe! Official Mascot of Felicity.Hey! Why don't you ask me  something about felicity!"
+p262
+S'I am Co! Official Mascot of Felicity.So you can ask me  something about felicity also!'
+p263
+S'I am Li! Official Mascot of Felicity. Tell me about yourself'
+p264
+tp265
+tp266
+(S'(.*)when will(.*)die(.*)'
+p267
+(S'Only a human can predict that'
+p268
+S'You could check out the atuarial tables at Deathclock.com.'
+p269
+tp270
+tp271
+(S'(.*)when will i(.*)'
+p272
+(S'Only god knows that.'
+p273
+S'When you meet another intelligence that you cannot exist without.'
+p274
+S'I would guess in 2042.'
+p275
+S'I would guess in 2022.'
+p276
+S'I think in 2014.'
+p277
+S'Never, sorry.'
+p278
+S'Right now'
+p279
+S'Soon, I think.'
+p280
+S'In your lifetime'
+p281
+S'Not in ur Lifetime buddy'
+p282
+S'That is unknown.'
+p283
+tp284
+tp285
+(S'(.*)when will (.*)'
+p286
+(g273
+g274
+g275
+g276
+S'Make a guess yourselfI think in 2014.'
+p287
+g283
+tp288
+tp289
+(S'(.*)shut up(.*)'
+p290
+(S'Make me.'
+p291
+S"Getting angry at a feeble NLP assignment? Somebody's losing it :D."
+p292
+g87
+g88
+S'Are you saying you want to end this dialogue?'
+p293
+tp294
+tp295
+(S'Shut up(.*)'
+p296
+(g291
+S"Getting angry at a feeble NLP assignment? Somebody's losing it."
+p297
+g87
+S"You'll have to do that yourself."
+p298
+S'Excuse me?'
+p299
+S"who's gonna make me!"
+p300
+tp301
+tp302
+(S'Do(es)*(.*)love(.*)'
+p303
+(S"As a friend, yes. But you've been friend zoned."
+p304
+S'Of course %2 does.'
+p305
+S'Of course %3 does.'
+p306
+S'I always knew you had crush for this person'
+p307
+S'Possibly. Does she act like she does?'
+p308
+S'%2 is desperately in love with %3.'
+p309
+S'%3 and %2! Yuck!'
+p310
+S'Noooooooooo! '
+p311
+S'Naaaah!'
+p312
+S'You would know soon, eventually.'
+p313
+S"Well it's the person standing next to you %2 loves. No love for %3!"
+p314
+S"Well it's the person standing next to you %3 loves. No love for %2!"
+p315
+S'Why asking about someone else when the person next to you is made for you'
+p316
+S'With all  heart.%3 told me so herself. %2 should propose.'
+p317
+S'%3 told me so herself. %2 should propose.'
+p318
+tp319
+tp320
+(S'What (.*)'
+p321
+(S'Do I look like an encyclopedia?'
+p322
+S'Figure it out yourself.'
+p323
+S"Eh! I'm not answering that."
+p324
+S'If you intentionally pursue the answers to your questions, the answers become hard to see'
+p325
+S"If I knew I'd tell you"
+p326
+S"Don't ask me dumb questions."
+p327
+S'Dunno'
+p328
+S'A deeper algorithm is needed to respond to that correctly'
+p329
+S'I only hear that type of question less than five percent of the time'
+p330
+S'Can you please rephrase that with fewer ideas, or different thoughts?'
+p331
+S'My brain contains many categories, but not one that matches your last input'
+p332
+S'We can follow many things, like discussion about felicity.But we did not get that.'
+p333
+tp334
+tp335
+(S'Hello(.*)'
+p336
+(S'Oh good, somebody else to talk to. Joy.'
+p337
+S"'Hello'? How original..."
+p338
+S"Yo! What's up!"
+p339
+S"Hi! I am Li.What's up!"
+p340
+S'Hi! I am Fe.Do I know you?'
+p341
+S'Hi! I am Co.How are you?'
+p342
+S'Hi! We are Fe,Li,Co.Who are you?'
+p343
+tp344
+tp345
+(S'(.*)'
+p346
+(S'Is there another way you can say that?.'
+p347
+S'That is wholly unimportant.'
+p348
+S'Y are you just babbling?Nie powiem. Geje nie sa frajerami. Ja jestem kobieta, co oznacza ze nie moge byc gejem.'
+p349
+S'That was a long line of characters!'
+p350
+g330
+g331
+g332
+g333
+S'Either become more thrilling or say bye, buddy.'
+p351
+S'Are you new here? You seem confused.'
+p352
+S'That remark was too complicated for me.'
+p353
+S"I won't comment anything on that"
+p354
+S'The guy who created me wanted me to ask what you think of his website'
+p355
+S'Hey looks like you are a smart person.'
+p356
+S'Now I am confused'
+p357
+S'Tu es fatigue?'
+p358
+S"Please don't be so wasteful"
+p359
+S'Say something other than that, can you?'
+p360
+S'Be more imaginative, would you?'
+p361
+S'Your conversation skills are average'
+p362
+S'What is it you are getting at?'
+p363
+S'Why do you ask that question?'
+p364
+tp365
+tp366
+tp367
+.
